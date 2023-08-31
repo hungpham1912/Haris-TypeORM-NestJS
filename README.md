@@ -8,7 +8,7 @@ This package is library for build pagination with NestJS and TypeORm
 - 💬 Ask me about anything [here](https://www.facebook.com/pham.thanhhung.1912/)
 
 **About this package**
-
+- 😊 Link for this package [NPM](https://www.npmjs.com/package/haris-typeorm-nestjs)
 - Example for <a>Pagination</a>
 <br />
 
